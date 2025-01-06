@@ -1,4 +1,4 @@
-﻿# WeatherPrediction_of_Dhaka_Delhi
+﻿# Weather_Prediction_of_Dhaka_Delhi
 ## CSE303 Prediction Project
 
 This repository contains Jupyter Notebooks that analyze and predict temperature trends for the cities of Delhi and Dhaka. The project explores data visualization, preprocessing, and the application of machine learning models for prediction.
